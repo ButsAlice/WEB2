@@ -1,0 +1,91 @@
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    color: darkslategray;
+    background-color: white;
+}
+
+.question {
+    background-color: #896e9c; 
+    color: white;
+    font-size: 20px;
+    border-radius: 4px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center;
+    font-size: 20px;
+  }
+
+.form-check-label {
+    background-color: #9187a8;
+    color: white;
+    padding: 2px 6px;
+    border-radius: 4px;
+}
+.btn-result {
+    background-color: #6a0dad; 
+    color: white; 
+    border: none; 
+}
+
+.btn-result:hover {
+    background-color: #5a0ca0; 
+    color: white;
+}
+.nav {
+    justify-content: center; 
+    margin: 10px 0;
+}
+
+.nav-link {
+    background-color: #896e9c;
+    color: white !important;
+    font-weight: bold;
+    font-size: 18px;
+    margin: 0 5px;
+    padding: 6px 12px;
+    border-radius: 4px;
+    transition: background-color 0.3s ease;
+    display: inline-block;
+    text-align: center;
+}
+
+    .nav-link:hover {
+        background-color: #5a0ca0;
+        text-decoration: none;
+    }
+
+label {
+    background-color: #896e9c;
+    color: white; 
+    padding: 4px 8px; 
+    border-radius: 4px;
+    display: inline-block; 
+    margin-bottom: 5px;
+}
+
+table.table tbody td {
+    background-color: white !important;
+    color: black;
+}
+
+
+.highlight-text {
+    background-color: #896e9c; 
+    color: white; 
+    padding: 12px 20px; 
+    border-radius: 8px; 
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+}
